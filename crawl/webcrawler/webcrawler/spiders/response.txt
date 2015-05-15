@@ -1,0 +1,902 @@
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<title>糗事百科</title>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://qiushibaike.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-itunes-app" content="app-id=422853458">
+<meta name="keywords" content="糗事百科, 糗百, 真实糗事, 热门糗事, 精华糗事, 最新糗事, 有图有真相, 审帖, 糗友, 笑话, 搞笑图片, 邀请码, 天王盖地虎, 小鸡炖蘑菇, 一入糗百深似海, 从此节操是路人。">
+<meta name="description" content="糗事百科是分享原创糗事的UGC平台, 网友可以自由投稿、投票、评论、审核糗事, 并与其它糗友互动, 在这里您可发现校园、办公室、家庭中正在发生的搞笑糗事。">
+<link href="http://static.qiushibaike.com/css/dist/touch/app.min.css?v=80382" rel="stylesheet" type="text/css">
+
+<link id="night" rel="stylesheet" href="/static/css/dist/touch/theme-night.min.css?v=2a1e6">
+<script async="" src="http://img.baidu.com/hunter/alog/alog.mobile.min.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+window.app = {};
+var _hmt = _hmt || [];
+</script>
+<script type="text/javascript" src="/static/js/mobile-theme.js?v=08868"></script>
+<script type="text/javascript">
+updateTheme(false);
+</script>
+<script type="text/javascript" name="baidu-tc-cerfication" src="http://apps.bdimg.com/cloudaapi/lightapp.js#bc606fbc90c899d91dc39694f2aa4020"></script><script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({app_id: '133e663fdf9475c61456a884'});</script>
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+googletag.defineSlot('/75025181/touch_中间', [300, 250], 'div-gpt-ad-1382694041396-0').addService(googletag.pubads());
+googletag.defineSlot('/75025181/touch_顶部', [320, 50], 'div-gpt-ad-1382694041396-1').addService(googletag.pubads());
+googletag.defineSlot('/75025181/touch_换量', [300, 250], 'div-gpt-ad-1393235654869-1').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+
+<script src="//m.baidu.com/lightapp/navbar/get?m_code=133e663fdf9475c61456a884&amp;callback=xnBBBBBCallBackFn8776" async="" defer="" type="text/javascript" charset="utf-8"></script><script src="http://developer.baidu.com/lightapp/statis/cloudaapi?callback=printlogCallback&amp;data=url%5Bhttp%3A%2F%2Fwww.qiushibaike.com%2F%5D%20apis%5Baccount%5D%20platform%5Bother%5D%20lastTime%5B1423105237634%5D%20imei%5B198225918258%5D%20"></script><script type="text/javascript" charset="utf-8" src="http://apps.bdimg.com/cloudaapi/pkg/helper-utils-moplus-monitor_da44906.js" _md_="_anymoore_http://apps.bdimg.com/cloudaapi/pkg/helper-utils-moplus-monitor_da44906.js"></script><script type="text/javascript" charset="utf-8" src="http://apps.bdimg.com/cloudaapi/pkg/push-smartBar_80812e8.js" _md_="_anymoore_http://apps.bdimg.com/cloudaapi/pkg/push-smartBar_80812e8.js"></script><script type="text/javascript" charset="utf-8" src="http://apps.bdimg.com/cloudaapi/pkg/app-socialshare_15393e1.js" _md_="_anymoore_http://apps.bdimg.com/cloudaapi/pkg/app-socialshare_15393e1.js"></script><script type="text/javascript" charset="utf-8" src="http://apps.bdimg.com/cloudaapi/pkg/account-pay_9fe277a.js" _md_="_anymoore_http://apps.bdimg.com/cloudaapi/pkg/account-pay_9fe277a.js"></script></head>
+<body class="body_night hPC" style="padding-bottom: initial; "><div id="BAIDU_DUP_fp_wrapper" style="position: absolute; left: -1px; bottom: -1px; z-index: 0; width: 0px; height: 0px; overflow-x: hidden; overflow-y: hidden; visibility: hidden; display: none; "><iframe id="BAIDU_DUP_fp_iframe" src="http://pos.baidu.com/wh/o.htm?ltr=&amp;cf=u" style="width: 0px; height: 0px; visibility: hidden; display: none; "></iframe></div>
+<div id="header" class="clearfix">
+
+<header class="action-bar">
+<div class="action-bar-left">
+<a href="/">
+
+<img class="logo_new" src="/static/images/touch/logo-new.png">
+
+
+<span class="view-control"></span>
+
+</a>
+</div>
+
+<div class="action-bar-right" id="action-bar-right-foronly">
+<a href="/add">
+<span class="icon-add"></span>
+</a>
+<a id="btn-channel" href="javascript:void(0);" data-target="nav-channel">
+<span class="icon-more"></span>
+</a>
+</div>
+
+<div id="nav-channel" class="action-overflow">
+<a id="btn-user" href="/new4/login">登录/注册</a>
+<a id="themebutton" onclick="updateTheme(1)" href="javascript:void(0);">夜间模式</a>
+<a href="/new4/suggest">意见反馈</a>
+<a class="foot-download">下载应用</a>
+</div>
+<script type="text/javascript">
+document.getElementById("themebutton").innerText = window.isNightMode ? '日间模式' : '夜间模式';
+</script>
+</header>
+
+
+<nav class="top-bar" id="top-bar-foronly">
+<a href="/8hr" class="active">
+<span>图文</span>
+</a>
+<a href="/imgrank">
+<span>纯图</span>
+</a>
+<a href="/text">
+<span>纯文</span>
+</a>
+<a href="/history">
+<span>穿越</span>
+</a>
+</nav>
+
+</div>
+
+<div class="main isMainPage" id="home">
+
+
+
+<a href="/article/100008272?from=article_100008272&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008272" class="o-h mb-m b-w mb2"><a href="/article/100008272?from=article_100008272&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/2209/22096675/thumb/20150102212645.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+一瓶瓶纯净水
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+公司年会把爱疯6藏在金蛋里，中奖的那家伙砸的太大力，屏碎了！！
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008272" class="info">
+<span id="score-100008272" class="ml12">
+<span id="pos-score-100008272" class="laugh-comment hp-color" data-votes="2282">2282 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">37 评论</span>
+</span>
+<!--span id="neg-score-100008272">.-93评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008272,1)" id="up-100008272" class="vote"></a>
+<a href="javascript:vote2m(100008272,-1)" id="dn-100008272" class="down"></a>
+<a href="/article/100008272?from=article_100008272&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008698?from=article_100008698&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008698" class="o-h mb-m b-w mb2"><a href="/article/100008698?from=article_100008698&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/missing.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+左逝的天堂
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+今天我妈拿着钱说“你去把这1万存上”，正lol呢我说“你放桌上，我玩完这把就去”。玩完游戏走到银行验钞机哗啦啦滚过去后我愣了，数字显示95！又数一次还是95。我这会想起来前两天借了老妈500块，无奈的掏出来500凑齐了
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008698" class="info">
+<span id="score-100008698" class="ml12">
+<span id="pos-score-100008698" class="laugh-comment hp-color" data-votes="784">784 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">17 评论</span>
+</span>
+<!--span id="neg-score-100008698">.-61评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008698,1)" id="up-100008698" class="vote"></a>
+<a href="javascript:vote2m(100008698,-1)" id="dn-100008698" class="down"></a>
+<a href="/article/100008698?from=article_100008698&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100009258?from=article_100009258&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100009258" class="o-h mb-m b-w mb2"><a href="/article/100009258?from=article_100009258&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+lz怀孕八个月  奶水多  一挤就出来了 昨天晚上老公不知道是不是良心发现  回来把衣服洗了   lz躺在床上看糗百   老公走过来看着我   我说干嘛   他就出去了   过了一分钟拿着一个杯子进来了   lz以为要倒水给我喝   没想到他直接朝我走来还脱我衣服   lz当时就火了  问你到底干嘛   二货老公说刚才洗衣服累了   想挤点奶喝  我说想喝自己下楼买啊  他居然说家里面有这么大一头牛   还有免费牛奶   不喝浪费了  了。。。。
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100009258" class="info">
+<span id="score-100009258" class="ml12">
+<span id="pos-score-100009258" class="laugh-comment hp-color" data-votes="667">667 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">31 评论</span>
+</span>
+<!--span id="neg-score-100009258">.-76评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100009258,1)" id="up-100009258" class="vote"></a>
+<a href="javascript:vote2m(100009258,-1)" id="dn-100009258" class="down"></a>
+<a href="/article/100009258?from=article_100009258&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+<!-- touch_换量 -->
+<div id="div-gpt-ad-1393235654869-1">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1393235654869-1');
+</script>
+</div>
+
+
+<a href="/article/100010410?from=article_100010410&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100010410" class="o-h mb-m b-w mb2"><a href="/article/100010410?from=article_100010410&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+河北邯郸磁县的康佳慧，你的内裤落在我老公的车上了，我老公是李权，大家顶起，谢谢
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100010410" class="info">
+<span id="score-100010410" class="ml12">
+<span id="pos-score-100010410" class="laugh-comment hp-color" data-votes="635">635 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">38 评论</span>
+</span>
+<!--span id="neg-score-100010410">.-57评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100010410,1)" id="up-100010410" class="vote"></a>
+<a href="javascript:vote2m(100010410,-1)" id="dn-100010410" class="down"></a>
+<a href="/article/100010410?from=article_100010410&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008964?from=article_100008964&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008964" class="o-h mb-m b-w mb2"><a href="/article/100008964?from=article_100008964&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+女友老爹爱玩儿古玩，第一次去她家，老头指着个木头盒子对我炫耀"小伙子看见没，这个盒儿两万多。""哟叔叔，这么贵！为什。。。"还没等我问完，老头打开盒子拿出两万块钱给我看。
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008964" class="info">
+<span id="score-100008964" class="ml12">
+<span id="pos-score-100008964" class="laugh-comment hp-color" data-votes="534">534 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">13 评论</span>
+</span>
+<!--span id="neg-score-100008964">.-56评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008964,1)" id="up-100008964" class="vote"></a>
+<a href="javascript:vote2m(100008964,-1)" id="dn-100008964" class="down"></a>
+<a href="/article/100008964?from=article_100008964&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100009414?from=article_100009414&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100009414" class="o-h mb-m b-w mb2"><a href="/article/100009414?from=article_100009414&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/2433/24335708/thumb/20150123134641.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+水里的鱼393
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+本人80kg，今早挤公交，割～～～～～～还没站稳突然一个急刹车！我的脚后跟全力的碾压在了她的脚面上！马上道歉！只见美女微张着颤抖的嘴巴半眯着眼，深深的吸了一口气，明显的看见眼里闪着泪花儿。。。妹子对不住了～
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100009414" class="info">
+<span id="score-100009414" class="ml12">
+<span id="pos-score-100009414" class="laugh-comment hp-color" data-votes="494">494 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">11 评论</span>
+</span>
+<!--span id="neg-score-100009414">.-45评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100009414,1)" id="up-100009414" class="vote"></a>
+<a href="javascript:vote2m(100009414,-1)" id="dn-100009414" class="down"></a>
+<a href="/article/100009414?from=article_100009414&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<!-- touch_中间 广告 -->
+<div id="div-gpt-ad-1382694041396-0">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1382694041396-0');
+</script>
+</div>
+
+<a href="/article/100008234?from=article_100008234&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008234" class="o-h mb-m b-w mb2"><a href="/article/100008234?from=article_100008234&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+自己发生的事就昨天，公司老总出差回来突然说下午放假然后带着我们几个员工开着车满世界找网吧LOL。在网吧联机的时候不能说“你个傻X到底是有多坑”只能卖自己救老板然后再说“老板我的错”。网吧里大喊“某总，来人gank了快走”看着全网吧的眼睛想想也是醉了……这个必须匿………
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008234" class="info">
+<span id="score-100008234" class="ml12">
+<span id="pos-score-100008234" class="laugh-comment hp-color" data-votes="464">464 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">13 评论</span>
+</span>
+<!--span id="neg-score-100008234">.-75评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008234,1)" id="up-100008234" class="vote"></a>
+<a href="javascript:vote2m(100008234,-1)" id="dn-100008234" class="down"></a>
+<a href="/article/100008234?from=article_100008234&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008750?from=article_100008750&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008750" class="o-h mb-m b-w mb2"><a href="/article/100008750?from=article_100008750&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+跟老公结婚两年，没有孩子，基本一星期一次，而且从来没有高潮，妹子基本都靠手，在这里，我说一句，这条过了我就去约炮！！！！！
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008750" class="info">
+<span id="score-100008750" class="ml12">
+<span id="pos-score-100008750" class="laugh-comment hp-color" data-votes="486">486 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">93 评论</span>
+</span>
+<!--span id="neg-score-100008750">.-104评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008750,1)" id="up-100008750" class="vote"></a>
+<a href="javascript:vote2m(100008750,-1)" id="dn-100008750" class="down"></a>
+<a href="/article/100008750?from=article_100008750&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008230?from=article_100008230&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008230" class="o-h mb-m b-w mb2"><a href="/article/100008230?from=article_100008230&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/missing.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+我是一条那个小青龙
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+说个朋友家小少爷的事情，少爷今年四岁，朋友转述…………华丽丽的分割线…………孩子半夜说梦话：光头强，别追我！过了一会儿又说：小熊熊，别跑！然后大哭，把他摇醒，问怎么了，孩子说：啊？我不知道啊。接着倒头继续睡……孩子，动画片没给你留下啥阴影吧？
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008230" class="info">
+<span id="score-100008230" class="ml12">
+<span id="pos-score-100008230" class="laugh-comment hp-color" data-votes="333">333 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">3 评论</span>
+</span>
+<!--span id="neg-score-100008230">.-53评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008230,1)" id="up-100008230" class="vote"></a>
+<a href="javascript:vote2m(100008230,-1)" id="dn-100008230" class="down"></a>
+<a href="/article/100008230?from=article_100008230&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100007124?from=article_100007124&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100007124" class="o-h mb-m b-w mb2"><a href="/article/100007124?from=article_100007124&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/missing.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+天朝苦逼小屁民
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+非得几个字？？？？？
+</div>
+
+<div class="mb-m mt-zz">
+<img class="w-xl" src="http://pic.qiushibaike.com/system/pictures/10000/100007124/medium/100007124.jpg">
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100007124" class="info">
+<span id="score-100007124" class="ml12">
+<span id="pos-score-100007124" class="laugh-comment hp-color" data-votes="329">329 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">13 评论</span>
+</span>
+<!--span id="neg-score-100007124">.-57评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100007124,1)" id="up-100007124" class="vote"></a>
+<a href="javascript:vote2m(100007124,-1)" id="dn-100007124" class="down"></a>
+<a href="/article/100007124?from=article_100007124&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008702?from=article_100008702&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008702" class="o-h mb-m b-w mb2"><a href="/article/100008702?from=article_100008702&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/1305/13051272/thumb/20150201101739.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+咦？人间胸器！
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+楼主家北方农村的。每年冬天家家户户都会杀羊啊杀猪的吃。那年冬天我爸帮邻居杀猪。我跟着帮忙。一群人按着猪很快就放血杀了。然后大人回屋里抽烟休息去了。我和邻居家小孩子外面看着猪。他站累了。就骑死猪身上了，结果猪活了。。站起来托着他就跑了。我直接傻眼了。叫人大人赶紧追。追了100多米啊。可见这猪多不想死啊。等我们跑过的时候。邻居家孩子被猪压在身下面狂哭。。把我们乐的。现在杀猪他都躲的远远的。估计心里阴影很大了。。。。
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008702" class="info">
+<span id="score-100008702" class="ml12">
+<span id="pos-score-100008702" class="laugh-comment hp-color" data-votes="291">291 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">6 评论</span>
+</span>
+<!--span id="neg-score-100008702">.-44评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008702,1)" id="up-100008702" class="vote"></a>
+<a href="javascript:vote2m(100008702,-1)" id="dn-100008702" class="down"></a>
+<a href="/article/100008702?from=article_100008702&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008122?from=article_100008122&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008122" class="o-h mb-m b-w mb2"><a href="/article/100008122?from=article_100008122&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/516/5163523/thumb/20141031203709.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+爱是倾城泪300
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+昨天去了一趟曲江，然后再去超市！因为第二天有急事，打出租来的公司，谁知到了公司发现钱不够，差1.5！很糗，还好司机师傅人好，也因为在路上又拼了两个人，所以少收了我3元，还给我留下今天晚上回来的1.5！还是好人多！
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008122" class="info">
+<span id="score-100008122" class="ml12">
+<span id="pos-score-100008122" class="laugh-comment hp-color" data-votes="286">286 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">12 评论</span>
+</span>
+<!--span id="neg-score-100008122">.-49评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008122,1)" id="up-100008122" class="vote"></a>
+<a href="javascript:vote2m(100008122,-1)" id="dn-100008122" class="down"></a>
+<a href="/article/100008122?from=article_100008122&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008420?from=article_100008420&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008420" class="o-h mb-m b-w mb2"><a href="/article/100008420?from=article_100008420&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/2176/21767545/thumb/20150122140428.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+爱哲诺
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+昨晚去妈家，爸爸炖了条鱼，炒了个芹菜。鱼炖的有点老了，不好吃，我没怎么吃就一直吃芹菜。今天早上，妈妈又炒了一盘芹菜，还说：看你挺喜欢吃的，我特意为你又炒的。我的亲妈啊，只有两个菜，一个不好吃不得吃另一个啊！这么简单的道理还非得让我说明白吗？
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008420" class="info">
+<span id="score-100008420" class="ml12">
+<span id="pos-score-100008420" class="laugh-comment hp-color" data-votes="284">284 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">6 评论</span>
+</span>
+<!--span id="neg-score-100008420">.-51评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008420,1)" id="up-100008420" class="vote"></a>
+<a href="javascript:vote2m(100008420,-1)" id="dn-100008420" class="down"></a>
+<a href="/article/100008420?from=article_100008420&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008968?from=article_100008968&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008968" class="o-h mb-m b-w mb2"><a href="/article/100008968?from=article_100008968&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+呵呵呵呵！！今天才知道，原来暖宝宝贴是可以用来暖B的，中枪的女士请举手！
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008968" class="info">
+<span id="score-100008968" class="ml12">
+<span id="pos-score-100008968" class="laugh-comment hp-color" data-votes="307">307 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">21 评论</span>
+</span>
+<!--span id="neg-score-100008968">.-79评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008968,1)" id="up-100008968" class="vote"></a>
+<a href="javascript:vote2m(100008968,-1)" id="dn-100008968" class="down"></a>
+<a href="/article/100008968?from=article_100008968&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100009644?from=article_100009644&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100009644" class="o-h mb-m b-w mb2"><a href="/article/100009644?from=article_100009644&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/589/5891066/thumb/20140221152642.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+爱臭美的喵喵君
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+看到阳台上一件粉色衬衫，还在想哇噻老爸终于年轻一次啊。走近一看，我去，老妈你挺牛啊，我白色衬衫给你染的挺均匀啊！
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100009644" class="info">
+<span id="score-100009644" class="ml12">
+<span id="pos-score-100009644" class="laugh-comment hp-color" data-votes="253">253 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">6 评论</span>
+</span>
+<!--span id="neg-score-100009644">.-31评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100009644,1)" id="up-100009644" class="vote"></a>
+<a href="javascript:vote2m(100009644,-1)" id="dn-100009644" class="down"></a>
+<a href="/article/100009644?from=article_100009644&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100007752?from=article_100007752&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100007752" class="o-h mb-m b-w mb2"><a href="/article/100007752?from=article_100007752&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://static.qiushibaike.com/images/thumb/anonymous.png" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+匿名用户
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+老婆洗完澡回卧室，我无奈的看着她，老婆说你干嘛 看我，我说干，老婆说真乖
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100007752" class="info">
+<span id="score-100007752" class="ml12">
+<span id="pos-score-100007752" class="laugh-comment hp-color" data-votes="242">242 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">3 评论</span>
+</span>
+<!--span id="neg-score-100007752">.-42评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100007752,1)" id="up-100007752" class="vote"></a>
+<a href="javascript:vote2m(100007752,-1)" id="dn-100007752" class="down"></a>
+<a href="/article/100007752?from=article_100007752&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008988?from=article_100008988&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008988" class="o-h mb-m b-w mb2"><a href="/article/100008988?from=article_100008988&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/2066/20666933/thumb/20150126123507.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+乐眸
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+LZ和几个好基友一起去逛街，看到有一家阿迪达斯专卖店就进去了，几个人试鞋试了半天也没打算买，正想走的时候我和小伙伴们心里萌生了一个恶作剧想让某人出丑一下，于是我说:“不就一千来块钱嘛，来你看中哪双哥我帮你付一半的钱。”说完把本以为没钱的卡递给了他。他拿着我卡刷的时候我和小伙伴们都暗喜着说你先刷我们在外面等你说完就走了，结果那货笑嘻嘻地拿着鞋子出来把卡还给我。我发现情况不对一看顿时就傻了我给错卡他了给了张有钱的..我擦！我的600块钱啊你们快还我600块钱来5555..最气的是TM那几个没良心的货笑了我一个星期。
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008988" class="info">
+<span id="score-100008988" class="ml12">
+<span id="pos-score-100008988" class="laugh-comment hp-color" data-votes="229">229 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">8 评论</span>
+</span>
+<!--span id="neg-score-100008988">.-55评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008988,1)" id="up-100008988" class="vote"></a>
+<a href="javascript:vote2m(100008988,-1)" id="dn-100008988" class="down"></a>
+<a href="/article/100008988?from=article_100008988&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100006808?from=article_100006808&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100006808" class="o-h mb-m b-w mb2"><a href="/article/100006808?from=article_100006808&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/956/9566460/thumb/20141220005731.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+小强儿⌒
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+用过的举个抓
+</div>
+
+<div class="mb-m mt-zz">
+<img class="w-xl" src="http://pic.qiushibaike.com/system/pictures/10000/100006808/medium/app100006808.jpg">
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100006808" class="info">
+<span id="score-100006808" class="ml12">
+<span id="pos-score-100006808" class="laugh-comment hp-color" data-votes="197">197 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">12 评论</span>
+</span>
+<!--span id="neg-score-100006808">.-36评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100006808,1)" id="up-100006808" class="vote"></a>
+<a href="javascript:vote2m(100006808,-1)" id="dn-100006808" class="down"></a>
+<a href="/article/100006808?from=article_100006808&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+
+
+<a href="/article/100008612?from=article_100008612&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+</a><article id="article_100008612" class="o-h mb-m b-w mb2"><a href="/article/100008612?from=article_100008612&amp;list=8hr&amp;s=4743689" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])">
+<div class="mb-m mt-m mlr">
+
+<img src="http://pic.qiushibaike.com/system/avtnew/2312/23127057/thumb/20141213165615.jpg" class="s-40 br-l">
+
+
+<span class="fs-l c-bl touch-user-name">
+本菇凉百毒不侵1989
+</span>
+
+</div>
+<div class="mb-m fs-l mlr mt10">
+一对母女俩逛街，女儿：爸爸怎么还不来？妈妈：刚打了电话，说两分钟到 .女儿：他那两分钟，起码半小时.妈妈：马上就到.女儿立马来句：都玩那几十年了，你还相信他
+</div>
+
+</a>
+<!-- touch小图标 -->
+<div id="qiushi_counts_100008612" class="info">
+<span id="score-100008612" class="ml12">
+<span id="pos-score-100008612" class="laugh-comment hp-color" data-votes="193">193 好笑</span>
+<span class="dot">·</span>
+<span class="comments hp-color">5 评论</span>
+</span>
+<!--span id="neg-score-100008612">.-40评论</span>-->
+<div class="stats-bar">
+<a href="javascript:vote2m(100008612,1)" id="up-100008612" class="vote"></a>
+<a href="javascript:vote2m(100008612,-1)" id="dn-100008612" class="down"></a>
+<a href="/article/100008612?from=article_100008612&amp;list=8hr&amp;s=4743689" class="comments" onclick="_hmt.push(['_trackEvent', 'page', 'click', 'signlePost'])"></a>
+</div>
+</div>
+</article>
+
+</div>
+<div>
+
+
+<div class="mb-m ta-c">
+第
+
+<mark class="d-ib p-s c-w b-db">1</mark>
+
+
+
+
+<a class="d-ib p-s b-w pager" href="/8hr/page/2?s=4743689">2</a>
+
+
+
+<a class="d-ib p-s b-w pager" href="/8hr/page/3?s=4743689">3</a>
+
+
+
+<a class="d-ib p-s b-w pager" href="/8hr/page/4?s=4743689">4</a>
+
+
+
+<a class="d-ib p-s b-w pager" href="/8hr/page/5?s=4743689">5</a>
+
+
+页
+</div>
+<div class="mb-l ta-c b-w">
+
+<a class="d-b p-m pager" href="/8hr/page/2/?s=4743689">下一页 »</a>
+
+
+</div>
+</div>
+
+
+<script>
+function urlParam (name, value, url) {
+if (typeof value == "undefined") {
+return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url || location.search) || [, ""])[1].replace(/\+/g, '%20')) || null;
+} else {
+url = url || window.location.href;
+name = name.toString();
+value = encodeURIComponent(value.toString())
+var r = new RegExp("(^|\\W)" + name + "=[^&]*", "g");
+var vUrl = url.split("#");
+vUrl[0] = (vUrl[0].match(r)) ? vUrl[0].replace(r, "$1" + name + "=" + value) : vUrl[0] + (vUrl[0].indexOf("?") == -1 ? "?" : "&") + name + "=" + value;
+return vUrl.join("#");
+}
+};
+function iSourceCMCC() {
+if (window.navigator.userAgent.indexOf('SurfnewsApp_') > 0) {
+return true;
+} else {
+return false;
+}
+}
+if (urlParam('for_source') == 'cmcc' || iSourceCMCC()) {
+document.getElementById('action-bar-right-foronly').style.display = 'none';
+if (document.getElementById('top-bar-foronly')) document.getElementById('top-bar-foronly').style.display = 'none';
+if (document.getElementById('home')) {
+document.getElementById('home').style.paddingTop= 10 + 'px';
+document.getElementById('home').style.marginTop= '-2px';
+}
+}
+</script>
+<footer>
+
+<div class="mlr-a w-270"></div>
+
+<!-- KanShu -->
+<div class="ext-link"></div>
+</footer>
+
+
+<script type="text/javascript">
+var cpro_id = "u1360794";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id] = {
+xuanting:3,
+xuantingClose:0,
+adn:1,
+adclass:0
+};
+</script>
+
+
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script><div id="BAIDU_DUP_wrapper_u1360794_0"></div><script charset="utf-8" src="http://pos.baidu.com/acom?di=u1360794&amp;dcb=BAIDU_DUP2_define&amp;dtm=BAIDU_DUP2_SETJSONADSLOT&amp;dbv=0&amp;dci=0&amp;dri=0&amp;dis=0&amp;dai=1&amp;dds=&amp;drs=1&amp;dvi=1422598848&amp;ltu=http%3A%2F%2Fwww.qiushibaike.com%2F&amp;liu=&amp;ltr=&amp;lcr=&amp;ps=5469x0&amp;psr=1920x1200&amp;par=1920x1162&amp;pcs=400x300&amp;pss=400x5469&amp;pis=-1x-1&amp;cfv=0&amp;ccd=32&amp;chi=1&amp;cja=false&amp;cpl=0&amp;cmi=0&amp;cce=true&amp;col=en-US&amp;cec=UTF-8&amp;cdo=-1&amp;tsr=13&amp;tlm=1423078203&amp;tcn=1423107004&amp;tpr=1423107003628&amp;dpt=none&amp;coa=xuanting%3D3%26xuantingClose%3D0%26adn%3D1%26adclass%3D0%26c01%3D1&amp;baidu_id="></script><div><div style="display:none">-</div><div id="cproIframe1Wrap" style="text-align: center; font-size: 0px; width: 100%; height: 48px; opacity: 0.9; position: fixed; bottom: 0px; background-color: rgb(0, 0, 0); display: block; " baiduxuanting="baiduCproXuantingRoof"><div style="width:320px;height:48px;position:relative;margin:0 auto;"><div id="xuantingCloseBtn_u1360794" style="position:absolute;right:0;top:-20px;width:50px;height:20px;overflow:hidden;display:block;background:url('http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose3.png') no-repeat 0 0;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=none, src='http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose3.png');_background:none;cursor:pointer;background-position:center;background-size:100% 100%;z-index:2147483647;">&nbsp;</div><iframe id="cproIframe1" _src="http://pos.baidu.com/acom?adclass=0&amp;adn=1&amp;at=99&amp;aurl=&amp;c01=1&amp;cad=1&amp;ccd=32&amp;cec=UTF-8&amp;cfv=0&amp;ch=0&amp;col=en-US&amp;conOP=0&amp;cpa=1&amp;dai=1&amp;dis=0&amp;ltr=&amp;ltu=http%3A%2F%2Fwww.qiushibaike.com%2F&amp;lunum=6&amp;n=32067058_cpr&amp;pcs=400x300&amp;pis=10000x10000&amp;ps=5469x0&amp;psr=1920x1200&amp;pss=400x5469&amp;qn=9390f52f9969de2e&amp;rad=&amp;rsi0=320&amp;rsi1=48&amp;rsi5=4&amp;rss0=&amp;rss1=&amp;rss2=&amp;rss3=&amp;rss4=&amp;rss5=&amp;rss6=&amp;rss7=&amp;scale=20.3&amp;skin=mobile_skin_white_blue&amp;td_id=1360794&amp;tn=template_inlay_all_mobile&amp;tpr=1423107003628&amp;ts=1&amp;xuanting=3&amp;xuantingClose=0&amp;conbw=0&amp;conbl=6&amp;dtm=BAIDU_DUP2_SETJSONADSLOT&amp;dc=2&amp;di=u1360794&amp;wt=1&amp;distp=2006&amp;conW=320&amp;conH=48" width="320" height="48" align="center,center" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true" style="margin-left:px" src="http://pos.baidu.com/acom?adclass=0&amp;adn=1&amp;at=99&amp;aurl=&amp;c01=1&amp;cad=1&amp;ccd=32&amp;cec=UTF-8&amp;cfv=0&amp;ch=0&amp;col=en-US&amp;conOP=0&amp;cpa=1&amp;dai=1&amp;dis=0&amp;ltr=&amp;ltu=http%3A%2F%2Fwww.qiushibaike.com%2F&amp;lunum=6&amp;n=32067058_cpr&amp;pcs=400x300&amp;pis=10000x10000&amp;ps=5469x0&amp;psr=1920x1200&amp;pss=400x5469&amp;qn=9390f52f9969de2e&amp;rad=&amp;rsi0=320&amp;rsi1=48&amp;rsi5=4&amp;rss0=&amp;rss1=&amp;rss2=&amp;rss3=&amp;rss4=&amp;rss5=&amp;rss6=&amp;rss7=&amp;scale=20.3&amp;skin=mobile_skin_white_blue&amp;td_id=1360794&amp;tn=template_inlay_all_mobile&amp;tpr=1423107003628&amp;ts=1&amp;xuanting=3&amp;xuantingClose=0&amp;conbw=0&amp;conbl=6&amp;dtm=BAIDU_DUP2_SETJSONADSLOT&amp;dc=2&amp;di=u1360794&amp;wt=1&amp;distp=2006&amp;conW=320&amp;conH=48"></iframe><iframe src="http://cpro.baidustatic.com/cpro/ui/html/appDetect.html" width="0" height="0" align="center,center" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true" style="margin-left:px"></iframe></div></div></div>
+
+
+
+<script src="http://static.qiushibaike.com/js/dist/touch/app.min.js?v=970a6" type="text/javascript"></script>
+
+
+
+<script>
+// Baidu tongji
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F743362d4b71e22775786fbc54283175c' type='text/javascript'%3E%3C/script%3E"));
+// Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8780108-10']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script><script src=" http://hm.baidu.com/h.js?743362d4b71e22775786fbc54283175c" type="text/javascript"></script>
+<script type="text/javascript" src="/static/js/src/touch/lingxi.js?v=153af"></script>
+<script type="text/javascript" src="/static/js/cmread.js?v=d1b5a"></script>
+
+
+<style type="text/css" id="xnSmartBarCacheCSSID">
+
+.baiduServiceBottomBar.noDis{display:none !important}.baiduServiceBottomBar.iphoneDevice>ul>li .count{font-size:10px;line-height:12px;height:12px;padding:0px 2px;top:-3px;right:-8px;box-sizing:border-box;font-family:Arial, Helvetica, sans-serif;text-shadow:none;outline:none}.baiduServiceBottomBar.hackIFrame iframe{top:0px;-webkit-transform:translateZ(5px);transform:translateZ(5px)}.baiduServiceBottomBar{overflow:visible;line-height:1;border-top:1px solid #c0c0c0;position:fixed;z-index:200;width:100%;bottom:0px;background-color:rgba(242,242,242,0.94);background-image:-moz-linear-gradient(rgba(248,248,248,0.94), rgba(242,242,242,0.94));background-image:-o-linear-gradient(rgba(248,248,248,0.94), rgba(242,242,242,0.94));background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(248,248,248,0.94)), color-stop(1, rgba(242,242,242,0.94)));background-image:-webkit-linear-gradient(rgba(248,248,248,0.94), rgba(242,242,242,0.94));background-image:-ms-linear-gradient(rgba(248,248,248,0.94), rgba(242,242,242,0.94));background-image:linear-gradient(rgba(248,248,248,0.94), rgba(242,242,242,0.94))}.baiduServiceBottomBar div{overflow:visible}.baiduServiceBottomBar div,.baiduServiceBottomBar span,.baiduServiceBottomBar object,.baiduServiceBottomBar iframe,.baiduServiceBottomBar h1,.baiduServiceBottomBar h2,.baiduServiceBottomBar h3,.baiduServiceBottomBar h4,.baiduServiceBottomBar h5,.baiduServiceBottomBar h6,.baiduServiceBottomBar p,.baiduServiceBottomBar a,.baiduServiceBottomBar em,.baiduServiceBottomBar img,.baiduServiceBottomBar b,.baiduServiceBottomBar i,.baiduServiceBottomBar dl,.baiduServiceBottomBar dt,.baiduServiceBottomBar dd,.baiduServiceBottomBar ol,.baiduServiceBottomBar ul,.baiduServiceBottomBar li,.baiduServiceBottomBar fieldset,.baiduServiceBottomBar form,.baiduServiceBottomBar label,.baiduServiceBottomBar table,.baiduServiceBottomBar caption,.baiduServiceBottomBar tbody,.baiduServiceBottomBar tfoot,.baiduServiceBottomBar thead,.baiduServiceBottomBar tr,.baiduServiceBottomBar th,.baiduServiceBottomBar td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline}.baiduServiceBottomBar p,.baiduServiceBottomBar div,.baiduServiceBottomBar h1,.baiduServiceBottomBar h2,.baiduServiceBottomBar h3,.baiduServiceBottomBar h4,.baiduServiceBottomBar h5,.baiduServiceBottomBar h6{-webkit-text-size-adjust:none}.baiduServiceBottomBar ul,.baiduServiceBottomBar li,.baiduServiceBottomBar a{vertical-align:middle}.baiduServiceBottomBar ol,.baiduServiceBottomBar ul{list-style:none;overflow:visible}.baiduServiceBottomBar .qingIcon{width:22px;height:22px;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAqCAMAAADs1AnaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4BpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1YTA3ZWU4Yy0yNTUzLTQzOTktOTliMC0wYTYxYzc3NjY1ZGYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QzI1MDJCODkzOENGMTFFNDg2NjdDNzU2MzQwOTc2NzUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QzI1MDJCODgzOENGMTFFNDg2NjdDNzU2MzQwOTc2NzUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4YzRhMmIzNy03ODM4LTQyZTMtODI4Yy1lYjc1OTQyNjQwZWQiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDoyOGIzNTdlNi03NTM5LTExNzctODViNy1hYTQ4NGY2ZjI2ZWIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4Wt27tAAABmFBMVEXvX2pvs+r/+/vnECDlAhP0kpnwZ3EOcM383uBkRIPmCBj96+z+9fb6z9L4vMDpKznoHCvyfIX2p6397O360NPtUl7rPUrmBxjrPkv83+H2pqz4vsL2qK7lARLnDx/sQE3oHSzyfoftU17ye4TwaHIBeNn+9PXnESHoGyqJh7ZYY6Wq0vNRZan7+fsQcc36ztEHdNQZhd5+u+zc7PrW6fnvZW/4+/7pKDZsVY+1GTsOcs/0lZxhcrB3t+shasH96erv9/34ub5DZK1PouVgca/qM0EOcs7pKjjhAhTp4utmXZr//PwGe9sMftwDetrnFybKvtTpLDrrO0joGSgvkeHtUFzLv9QXhN36zdDpIzLgAxb6+PvlAxS+FzaGv+3H4fddqecCd9hGneTA3vYUg93tUV0Dd9hWS47QCyPoIjGYyPDvXmk9ZbH0k5qv1fN7OG5iVZRVpebrOkegzfH1+v4MctDl8fsIfNshid+MiLXy+P3VCB/n4euslrj8/f+ISHnqLTv0j5Y2leLoITDg7/sAeNrlABH///9RYd6zAAAAiHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AGLfWDwAAAZZJREFUeNrc1FV7wjAUBuDiDIr7cDbm7u7u7u7u7kb422spPU0F2PW+qyZ5nz5N0nOIuCD2/nqDcI7gD225SoSUan0aJFcpUCIKlTwVMpoQxGSURFoH4sWhFSHSokOC6CwkH1nNsPa9CI9mK4YMTpinPnm4OZ8dNRbNJZFerWQnk5u3qf306GA/GttsGaQQbJuKE46x/Aotnd/G6PQ9lhLctkM+/Gxe22JsSgjYS5jESM0WkLL3ARZFPBjpkI2xZO/iGSEGHXox8na0A685WaWXGYRfzvYMkIez5LIA/VwCGV2ri0uhm6p7MBt39DGKUfE8kK915kLESMaSymv2alOikdaneCbUXY39bqkQ78f9D+j4LyjQKY28wXEOITSrFSNPBKGVXheHkCsnj4/IMFOuig9ETEMhFGTjyBeChSCvpIYA2d0wGfiU84ozK4kSXYqJv7ZdUOYMkp9CmaOpBVHDSKCKSewrJVpPAmnw/Uo0MR7a1Uq3wwYOpWiHVJYLmxiUprFSeemJajK0aDoTXW67cO5XgAEAv5+0kJ0BN/wAAAAASUVORK5CYII=");margin:10px auto;background-size:100% 100%}.baiduServiceBottomBar .qingBtn{width:48px;height:48px;background-color:#f8f8f8;border:1px solid #ddd}.baiduServiceBottomBar .qingIcon,.baiduServiceBottomBar .qingBtn{display:block}.baiduServiceBottomBar *{vertical-align:middle;box-sizing:border-box}.baiduServiceBottomBar .baidu-xn-pop-parent{position:relative}.baiduServiceBottomBar .baidu-xn-pop-container{position:absolute;bottom:100%;display:none;z-index:-90;width:113%;background-color:rgba(255,255,255,0.94);background-image:-moz-linear-gradient(rgba(255,255,255,0.94), rgba(255,255,255,0.94));background-image:-o-linear-gradient(rgba(255,255,255,0.94), rgba(255,255,255,0.94));background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(255,255,255,0.94)), color-stop(1, rgba(255,255,255,0.94)));background-image:-webkit-linear-gradient(rgba(255,255,255,0.94), rgba(255,255,255,0.94));background-image:-ms-linear-gradient(rgba(255,255,255,0.94), rgba(255,255,255,0.94));background-image:linear-gradient(rgba(255,255,255,0.94), rgba(255,255,255,0.94));left:initial !important;margin-left:-7px;border:1px solid #c0c0c0;border-radius:2px;box-shadow:0px 0px 4px 1px rgba(0,0,0,0.12);margin-bottom:12px;-webkit-transform:scale(1)}.baiduServiceBottomBar .baidu-xn-pop-container ul,.baiduServiceBottomBar .baidu-xn-pop-container li{list-style:none}.baiduServiceBottomBar .baidu-xn-pop-container ul{padding:0px 9px;height:auto}.baiduServiceBottomBar .baidu-xn-pop-container ul>li:not(:last-of-type){border-bottom:1px solid #dddddd}.baiduServiceBottomBar .baidu-xn-pop-container li.vote{height:43px}.baiduServiceBottomBar .baidu-xn-pop-container ul>li{height:36px}.baiduServiceBottomBar .baidu-xn-pop-container ul>li a{padding:1px 0;font-size:14px}.baiduServiceBottomBar .baidu-xn-pop-container.show,.baiduServiceBottomBar .show>.baidu-xn-pop-container{display:block;z-index:-90}.baiduServiceBottomBar .noDis{display:none !important}.baiduServiceBottomBar a{text-decoration:none;color:#001526}.baiduServiceBottomBar>ul{display:-webkit-box;display:-ms-flexbox;display:-moz-box;display:box;width:100%;list-style-type:none;padding:0px;margin:0px;-webkit-box-pack:center;-webkit-box-align:center;box-pack:center;box-align:center;border:0 #fafafb solid;border-width:1px 0 0 1px}.baiduServiceBottomBar>ul>li{display:block;width:3em;-webkit-box-flex:1;flex:1;-ms-flex:1;-moz-box-flex:1;text-align:center;font-size:10px}.baiduServiceBottomBar>ul>li a{font-size:16px;padding:6px 0px 4px;display:inline-block;display:inline-block;width:100%;line-height:34px;height:43px;text-align:center}.baiduServiceBottomBar>ul>li a p>span.text-char{text-shadow:0 1px #fff}.baiduServiceBottomBar>ul>li .icon{width:18px;height:18px;display:block;margin:0px auto 4px;background-size:100% 100%;vertical-align:middle;position:relative}.baiduServiceBottomBar>ul>li .count-outer{position:relative;width:auto;display:inline-block;line-height:inherit}.baiduServiceBottomBar>ul>li .count{background-color:#f43b3b;color:#fff;border-radius:1px;padding:0px 2px;position:absolute;font-size:10px;line-height:12px;height:12px;top:-3px;right:-10px;font-style:normal;text-shadow:none;outline:none}.baiduServiceBottomBar>ul>li .baidu-xn-pop-container .count{top:3px}.baiduServiceBottomBar>ul li.showMoreBtn{display:none;position:relative}.baiduServiceBottomBar>ul .comment .count{right:-9px}.baiduServiceBottomBar>ul .pop-tip{-webkit-transform:rotateZ(45deg);transform:rotateZ(45deg);width:6px;height:6px;z-index:300;top:-15px;left:-55%;position:absolute;border:1px solid #c0c0c0;background-color:rgba(255,255,255,0.94);display:none}.baiduServiceBottomBar>ul .pop-tip.align-right{margin-left:100%;border-left:0px;border-top:0px}@media only screen and (max-width: 400px){.baiduServiceBottomBar .show-more-buttons>li:nth-of-type(n+4),.baiduServiceBottomBar .show-more-buttons-lg>li:nth-of-type(n+4){display:none}.baiduServiceBottomBar .show-more-buttons>li.showMoreBtn,.baiduServiceBottomBar .show-more-buttons-lg>li.showMoreBtn{display:block}}@media only screen and (min-width: 400px) and (max-width: 480px){.baiduServiceBottomBar .show-more-buttons-lg>li:nth-of-type(n+5){display:none}.baiduServiceBottomBar .show-more-buttons-lg>li.showMoreBtn{display:block}}@media only screen and (max-device-width: 600px){.baiduServiceBottomBar #mobile-phone-detector{display:block}}.baiduServiceBottomBar [data-action=ecomBottomBar-vote]{position:relative}.baiduServiceBottomBar [data-action=ecomBottomBar-vote] .bd_vote{position:absolute;z-index:1;height:100%;width:100%;top:0px}.baiduServiceBottomBar [data-action=ecomBottomBar-vote] .text-char{display:inline-block;-webkit-transform:translateZ(0px);transform:translateZ(0px)}.baiduServiceBottomBar [data-action=ecomBottomBar-vote] .bd_vote iframe{position:relative}.baiduServiceBottomBar>ul>li:last-of-type .baidu-xn-pop-container{right:10px}.baiduServiceBottomBar>ul>li:first-of-type .baidu-xn-pop-container{left:8px !important;margin-left:0px}.baiduServiceBottomBar .baidu-xn-pop-parent:after{position:absolute;top:0px;left:50%;width:12px;height:3px;-webkit-box-sizing:border-box;box-sizing:border-box;border:1px solid #c0c0c0;border-left:0px;border-right:0px;margin:6px 0px 6px -6px;content:""}.baiduServiceBottomBar .qingBtn{display:none}.baiduServiceBottomBar.showQingIconStyle.hideContent{border-top:transparent;width:auto}.baiduServiceBottomBar.showQingIconStyle.hideContent .qingBtn{display:block}.baiduServiceBottomBar.showQingIconStyle.hideContent .icon-container{display:none}.baiduServiceBottomBar.showQingIconStyle{display:-webkit-box;display:-ms-flexbox;display:-moz-box;-webkit-box-pack:center;-webkit-box-align:center;box-pack:center;box-align:center}.baiduServiceBottomBar.showQingIconStyle .qingBtn{display:block}.baiduServiceBottomBar.showQingIconStyle>ul>li:first-of-type .baidu-xn-pop-container{left:initial !important;margin-left:-10%}.baiduServiceBottomBar.showQingIconStyle [data-action=ecomBottomBar-showMore]{max-width:50px}.baiduServiceBottomBar.showQingIconStyle [data-action=ecomBottomBar-showMore] .baidu-xn-pop-container{width:180%}.baiduServiceBottomBar.showQingIconStyle [data-action=ecomBottomBar-showMore] .pop-tip.align-right{margin-left:120%}.baiduServiceBottomBar.showQingIconStyle.showContent{width:100%}.baiduServiceBottomBar.showQingIconStyle.showContent .qingBtn{border:1px solid transparent;border-right:1px solid #cdcdcd}.baiduServiceBottomBar.showQingIconStyle.showContent .qingIcon{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NjRENkJCMzY0NkJGMTFFNEI4NTc5NjE5QjFBMjJERTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NjRENkJCMzc0NkJGMTFFNEI4NTc5NjE5QjFBMjJERTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2NEQ2QkIzNDQ2QkYxMUU0Qjg1Nzk2MTlCMUEyMkRFNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2NEQ2QkIzNTQ2QkYxMUU0Qjg1Nzk2MTlCMUEyMkRFNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgNHqQMAAAA8UExURdLS0tzc3Onp6fj4+ExMTHt7e2xsbNXV1fz8/Hl5ef39/dTU1E1NTfn5+ejo6Nra2tPT0z8/PzMzM////3wYFWQAAAAUdFJOU/////////////////////////8AT0/nEQAAAT5JREFUeNrMl9sSgjAMRLcFRFFu6f//q1ekjLRJ3XHGvtI9QLpJEwRy4W8A3nUlss75DaBqRC6tXd9eRJp+BfQHua15suqn+b7/UL0BJ5ESwlMvcloAXqSEsOhF/AvgpISw6sW9AMe6gBDp6+MSg/NsJkT6+bwe42QlxBsRG8lI+NS/nWgi7OjXXDAQ9vRRMqmEXX2cjQphX79J5ywh9RDBRkg+gm1bGg3TizKfBsuv5oIDQ7CywUVQCfnjRdAIij2gWG7SDArNtJrBoaWNlmIIRkIqRRFshGSRQDAR0kUGlvKVK3O/A7C/wAaRPUbWSKyV2WRi05ktKGxJY4sqW9bZi4W92tjLlb3e2QaDbXHYJott89hGk2116WabbvfpgYMeeULFDl2Psa8uHfuqjROHsWzwHIe/m52/XlcBBgCFdCWM9zfnWwAAAABJRU5ErkJggg==)}.baiduServiceBottomBar.showQingIconStyle.showContent .icon-container{display:-webkit-box;display:-ms-flexbox;display:-moz-box;dislay:box;-webkit-box-flex:1;flex:1;-ms-flex:1;-moz-box-flex:1}.baiduServiceBottomBar.double-scale>ul>li a{line-height:68px;height:86px;font-size:32px;padding:12px 0 4px}.baiduServiceBottomBar.double-scale>ul>li .baidu-xn-pop-container{width:113%}.baiduServiceBottomBar.double-scale>ul>li .baidu-xn-pop-container ul{padding:0px 18px}.baiduServiceBottomBar.double-scale>ul>li .baidu-xn-pop-container ul>li{height:72px;line-height:60px;width:100%}.baiduServiceBottomBar.double-scale>ul>li .baidu-xn-pop-container ul>li a{padding:0px;line-height:72px;height:72px}.baiduServiceBottomBar.double-scale>ul>li .count{font-size:20px;line-height:20px;height:20px;padding:0 6px;top:6px;right:-20px;text-shadow:none;outline:none;border-radius:4px}.baiduServiceBottomBar.double-scale .baidu-xn-pop-parent:after{width:24px;height:6px;margin:12px 0 12px -12px;content:""}@media only screen and (max-width: 800px){.baiduServiceBottomBar.double-scale .show-more-buttons>li:nth-of-type(n+4),.baiduServiceBottomBar.double-scale .show-more-buttons-lg>li:nth-of-type(n+4){display:none}.baiduServiceBottomBar.double-scale .show-more-buttons>li.showMoreBtn,.baiduServiceBottomBar.double-scale .show-more-buttons-lg>li.showMoreBtn{display:block}}@media only screen and (min-width: 800px) and (max-width: 960px){.baiduServiceBottomBar.double-scale .show-more-buttons-lg>li:nth-of-type(n+5){display:none}.baiduServiceBottomBar.double-scale .show-more-buttons-lg>li.showMoreBtn{display:block}}.smb-user-guide-wrapper{position:fixed;z-index:9999;background:rgba(15,15,15,0.8);top:83px;width:238px;height:195px;left:50%;margin-left:-119px;border-radius:10px;font-size:14px;font-family:sans-serif}.smb-user-guide-wrapper .bg-pic{margin-top:24px;height:131px;background:url(http://m.baidu.com/static/search/siteapp/lego/use_guide.png) center no-repeat;background-size:208px 131px}.smb-user-guide-wrapper .queryX{position:absolute;left:44px;top:90px}.smb-user-guide-wrapper .closeX{display:block;margin:8px auto;color:#fff;width:110px;height:25px;line-height:25px;text-align:center}.baiduServiceBottomBar-toast-container{position:fixed;z-index:99999999;width:100%;bottom:50px;text-align:center}.baiduServiceBottomBar-toast-container .toast-text{min-width:40%;max-width:80%;overflow:hidden;word-break:break-all;word-wrap:nowrap;text-overflow:ellipsis;background-color:rgba(0,0,0,0.75);opacity:0;-webkit-transition:opacity 2s linear 0s;border-radius:5px;color:#fff;padding:10px;margin:0px auto;font-size:16px}.baiduServiceBottomBar-toast-container.show .toast-text{opacity:1}.baiduServiceBottomBar-toast-container.noDis{display:none !important}body,html{padding:0px;margin:0px}
+
+/**
+ * 用于将 css 以内联 js 的形式插入到页面中去
+ */
+</style><div class="baiduServiceBottomBar noDis"><a class="qingBtn" data-action="ecomBottomBar-iconBtn" onclick="javascript:void(0);"><i class="qingIcon"></i></a><ul class="showCount-3 icon-container"><li><a data-action="ecomBottomBar-comment" onclick="javascript:void(0);" class="hackTJMark"><p class="count-outer"><span class="text-char">评价</span><span class="count noDis"></span></p></a></li><li><a data-action="qingBottomBarShare" onclick="javascript:void(0);"><p class="count-outer"><span class="text-char">分享</span><span class="count noDis"></span></p></a></li><li><a data-action="ecomBottomBar-vote" onclick="javascript:void(0);"><p class="count-outer"><span class="text-char">赞</span><span class="count noDis"></span></p><div class="bd_vote" data-inited="1"><iframe id="vote142310700508233" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 100%; height: 100%; display: block; " src="http://openapi.baidu.com/widget/social/like?app_id=1322865&amp;third_source_id=ea61664e527904b673682900f04e0c46&amp;url=http%3A%2F%2Fwww.qiushibaike.com%2F&amp;cssLink=1&amp;id=vote142310700508233"></iframe></div></a></li><li class="showMoreBtn baidu-xn-pop-parent" data-action="ecomBottomBar-showMore"><a onclick="javascript:void(0);">更多</a><div class="noDis"><div class="baidu-xn-pop-container"><div class="pop-content"><ul></ul></div></div><div class="pop-tip align-right"></div></div></li></ul><!-- hack form mobile phone detect --><span id="mobile-phone-detector"></span></div><script type="text/javascript" charset="utf-8" src="http://apps.bdimg.com/developer/static/1417096041977/social-widget/js/vote.js" async=""></script><div id="cproIframe1Wrap_placeholder" style="width: 100%; height: 48px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; background-image: none; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; background-position: initial initial; background-repeat: initial initial; "></div></body></html>

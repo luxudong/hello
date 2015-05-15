@@ -1,0 +1,31 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-01-14T07:36:36.813Z] GhostDriver - Main - running on port 54339
+[INFO  - 2015-01-14T07:36:36.989Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-01-14T07:36:36.989Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.customHeaders:  - {}
+[INFO  - 2015-01-14T07:36:36.989Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-01-14T07:36:36.989Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 123b2690-9bc0-11e4-8532-f97bbeeadc10
+[INFO  - 2015-01-14T07:41:36.817Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2015-01-14T07:41:38.780Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2015-01-14T07:41:38.780Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - stack:
+  (anonymous function) (https://www.analyticszone.com/homepage/web/displayBlogsPage.action:693)
+[ERROR - 2015-01-14T07:41:38.811Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'node[_185]')
+[ERROR - 2015-01-14T07:41:38.811Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - stack:
+  (anonymous function) (https://www.analyticszone.com/homepage/bundles/js/gzip_1772937342/base.js:2710)
+  (anonymous function) (https://www.analyticszone.com/homepage/web/displayBlogsPage.action:164)
+  (anonymous function) (https://www.analyticszone.com/homepage/bundles/js/gzip_1772937342/base.js:218)
+  (anonymous function) (https://www.analyticszone.com/homepage/bundles/js/gzip_1772937342/base.js:269)
+  (anonymous function) (https://www.analyticszone.com/homepage/bundles/js/gzip_1772937342/base.js:261)
+  (anonymous function) (https://www.analyticszone.com/homepage/bundles/js/gzip_1772937342/base.js:611)
+[ERROR - 2015-01-14T07:41:38.817Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'document.getElementById("userid").focus')
+[ERROR - 2015-01-14T07:41:38.817Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - stack:
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/styles/scripts/libs/registration.js:5)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/styles/scripts/libs/jquery-1.6.4.min.js:2)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/styles/scripts/libs/jquery-1.6.4.min.js:2)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/styles/scripts/libs/jquery-1.6.4.min.js:2)
+[ERROR - 2015-01-14T07:41:38.831Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - msg: ReferenceError: Can't find variable: google
+[ERROR - 2015-01-14T07:41:38.831Z] Session [123b2690-9bc0-11e4-8532-f97bbeeadc10] - page.onError - stack:
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/scripts/blog.js:158)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/scripts/jquery-1.js:974)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/scripts/jquery-1.js:1082)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/scripts/jquery-1.js:406)
+  (anonymous function) (https://www.analyticszone.com/homepage/static/20140907.212859/nav/common/scripts/jquery-1.js:83)
